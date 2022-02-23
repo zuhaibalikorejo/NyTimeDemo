@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">network</string>
+    <string name="error">Error</string>
+    <string name="generic_network_error">Unable to proceed due to technical issues. Please try again.</string>
+    <string name="sorry">Sorry</string>
+    <string name="error_please_check_network_connection">Your internet connection is either missing or too slow. Please check your connectivity and try again.</string>
+
+</resources>
