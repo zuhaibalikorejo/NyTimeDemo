@@ -12,6 +12,7 @@ A simple android app to hit the NY Times Most Popular Articles API and show a li
 - JetPack Component
 - Unit tests using JUnit
 - UI tests using Espresso
+- - offline App
 
 
 # Open-source libraries used
