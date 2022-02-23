@@ -9,7 +9,7 @@ A simple android app to hit the NY Times Most Popular Articles API and show a li
 - Retrofit2 server call
 - DataBinding
 - Hilt
-- Courtine
+- JetPack Component
 - Unit tests using JUnit
 - UI tests using Espresso
 
@@ -17,7 +17,7 @@ A simple android app to hit the NY Times Most Popular Articles API and show a li
 # Open-source libraries used
 - Retrofit2 as HTTP client
 - Glide for image downloaiding and display
-- Hilt for dependency injection
+- Hilt for dependency injection from JetPack Component
 - Espresso   for UI Test
 - Mockito  for Unit Test 
 
